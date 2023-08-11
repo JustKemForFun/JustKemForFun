@@ -15,13 +15,25 @@ const justkemforfun = {
      "Html/Css"
    ],
   tools: [ 
-     "Express"
+     "Express",
+     "MongoDB"
   ],
   language_Learning_Future: [
      "TypeScript",
      "PHP",
      "Python",
      "React.Js"
+  ],
+  code_write_tools: [
+     "Visual Studio Code",
+     "Replit"
+  ],
+  deploy_tools: [
+     "Heroku",
+     "GitLab"
+  ],
+  support_tool: [
+     "NPM"
   ],
   info: {
        name: "Hao Hoang",
