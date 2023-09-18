@@ -12,6 +12,7 @@
 
 /!-[ About and Infomation ]-!/
 
+// let kem = {}
 const justkemforfun = {
   code: [
      "JavaScript", 
