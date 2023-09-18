@@ -1,4 +1,4 @@
-<h2> Hi, I'm Hao Hoang<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I am Hoàng Hào !!!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://graph.facebook.com/100009820695732/picture?width=720&height=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662" width="90">
 <p><em>Visit my portfolio here <a href="https://updating">KemProduct!</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Studient at <a href="https://api.kemnewbie.repl.co">APIs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -11,8 +11,8 @@
 const justkemforfun = {
   code: [
      "JavaScript", 
-     "Node.Js", 
-     "Html/Css"
+     "Node.JS", 
+     "HTML/CSS"
    ],
   tools: [ 
      "Express",
@@ -22,7 +22,7 @@ const justkemforfun = {
      "TypeScript",
      "PHP",
      "Python",
-     "React.Js"
+     "React.JS"
   ],
   code_write_tools: [
      "Visual Studio Code",
@@ -36,7 +36,7 @@ const justkemforfun = {
      "NPM"
   ],
   info: {
-       name: "Hao Hoang",
+       name: "Hoàng Hào",
        username: "JustKemForFun",
        age: 14, 
        website: "https://updating"
