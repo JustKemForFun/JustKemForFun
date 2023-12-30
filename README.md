@@ -76,4 +76,18 @@ const justkemforfun = {
   <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
  </p>
 <br>
-  </div>
+  <h2 align="center">Contact Me!</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://facebook.com/kemsadboiz" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/kemsadboizz" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Instagram" />
+  </a>
+  <a href="mailto:kemdev.contact@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="MMail" />
+  </a>
+</div>
+</div>
