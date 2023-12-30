@@ -69,4 +69,11 @@ const justkemforfun = {
   <img src="https://img.shields.io/badge/VS Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
    </p>
+<br>
+ <p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><br><br>
+  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
+  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
+ </p>
+<br>
   </div>
