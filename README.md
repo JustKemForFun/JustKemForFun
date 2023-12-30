@@ -70,25 +70,28 @@ const justkemforfun = {
   <!-- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
    </p>
 <br>
+</div>
+
+<div>
  <p align="center">
 <!--  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><br><br>  -->
   <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
   <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
  </p>
 <br>
-<!--   <h2 align="center">Contact Me!</h2>  -->
+</div>
+
 ### 🐱‍🏍 Contact Me!
-<br>
+<!-- <h2 align="center">Contact Me!</h2> -->
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://facebook.com/kemsadboiz" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/kemsadboizz" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Instagram"/>
   </a>
   <a href="mailto:kemdev.contact@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="MMail" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Mail"/>
   </a>
-</div>
 </div>
