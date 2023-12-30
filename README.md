@@ -76,7 +76,8 @@ const justkemforfun = {
   <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
  </p>
 <br>
-  <h2 align="center">Contact Me!</h2>
+<!--   <h2 align="center">Contact Me!</h2>  -->
+### 🐱‍🏍 Contact Me!
 <br>
 <!-- https://icons8.com -->
 <div align="center">
