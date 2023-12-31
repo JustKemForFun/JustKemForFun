@@ -19,9 +19,12 @@ const justkemforfun = {
      "Node.JS", 
      "HTML/CSS"
    ],
-  tools: [ 
-     "Express",
-     "MongoDB"
+  data: [
+     "MongoDB",
+     "Redis"
+  ],
+  framework: [ 
+     "Express"
   ],
   language_Learning_Future: [
      "TypeScript",
@@ -35,6 +38,7 @@ const justkemforfun = {
   ],
   deploy_Tools: [
      "Heroku",
+     "Glitch",
      "GitLab"
   ],
   support_Tool: [
@@ -46,13 +50,13 @@ const justkemforfun = {
        age: 14,
        location: "localhost, vietnamese",
        occupation: "Newbie Study Code",
-       operating_system: "Windows, MaciOS, Linux, Arch, VPS",
+       operating_system: "Windows, MaciOS, Linux, Azure, Arch, VPS",
        website: "https://kemapis.eu.org/"
   }
 }
 ```
 
-### 🚀 Technologies and Tools
+### 🚀 Technologies Stack and Tools
 <div align="center">
    <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -70,6 +74,12 @@ const justkemforfun = {
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img scr="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  <img scr="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img scr="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+  <img scr="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img scr="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white"/>
+  <img scr="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
    </p>
 <br>
