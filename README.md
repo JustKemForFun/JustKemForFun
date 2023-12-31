@@ -3,9 +3,52 @@
 <p><em>Visit my portfolio here <a href="https://kemapis.eu.org/">KemProduct!</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Studient at <a href="https://api.kemnewbie.repl.co">APIs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![GitHub JustKemForFun](https://img.shields.io/github/followers/justkemforfuVPS",
+[![GitHub JustKemForFun](https://img.shields.io/github/followers/justkemforfun?label=follow&style=social)](https://github.com/justkemforfun)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```JavaScript
+'use strict';
+
+/!-[ About and Infomation ]-!/
+
+// let kem = {}
+const justkemforfun = {
+  code: [
+     "JavaScript", 
+     "Node.JS", 
+     "HTML/CSS"
+   ],
+  tools: [ 
+     "Express",
+     "MongoDB"
+  ],
+  language_Learning_Future: [
+     "TypeScript",
+     "PHP",
+     "Python",
+     "React.JS"
+  ],
+  code_Write_Tools: [
+     "Visual Studio Code",
+     "Replit"
+  ],
+  deploy_Tools: [
+     "Heroku",
+     "GitLab"
+  ],
+  support_Tool: [
+     "NPM"
+  ],
+  info: {
+       name: "Hoàng Hào",
+       username: "JustKemForFun",
+       age: 14,
+       location: "localhost, vietnamese",
+       occupation: "Newbie Study Code",
+       operating_system: "Windows, MaciOS, Linux, Arch, VPS",
        website: "https://kemapis.eu.org/"
-  },
+  }
 }
 ```
 
