@@ -34,6 +34,7 @@ const justkemforfun = {
   ],
   code_Write_Tools: [
      "Visual Studio Code",
+     "Sublime Text",
      "Replit"
   ],
   deploy_Tools: [
