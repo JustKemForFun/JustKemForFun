@@ -32,7 +32,7 @@ const justkemforfun = {
      "Python",
      "React.JS"
   ],
-  code_Write_Tools: [
+  environment: [
      "Visual Studio Code",
      "Sublime Text",
      "Replit"
@@ -54,7 +54,9 @@ const justkemforfun = {
      occupation: "Newbie Study Code",
      operating_system: "Windows, MaciOS, Linux, Azure, Arch, VPS",
      website: "https://hoanghao.me/"
-  }
+  },
+  friendly: {},
+  return justkemforfun;
 }
 ```
 
