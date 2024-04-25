@@ -1,6 +1,6 @@
 <h2> Hi, I am Hoàng Hào !!!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://graph.facebook.com/100009820695732/picture?width=720&height=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662" width="90">
-<p><em>Visit my portfolio here <a href="https://kemapis.eu.org/">KemProduct!</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Studient at <a href="https://api.kemnewbie.repl.co">APIs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Visit my portfolio here <a href="https://hoanghao.me/">KemProduct!</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Studient at <a href="https://api.kemnewbie.repl.co">APIs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![GitHub JustKemForFun](https://img.shields.io/github/followers/justkemforfun?label=follow&style=social)](https://github.com/justkemforfun)
@@ -47,11 +47,12 @@ const justkemforfun = {
   info: {
      name: "Hoàng Hào",
      username: "JustKemForFun",
-     age: 14,
+     age: 15,
      location: "localhost, vietnamese",
+     status: "Waiting for Võ Ng Đan Khanh ><",
      occupation: "Newbie Study Code",
      operating_system: "Windows, MaciOS, Linux, Azure, Arch, VPS",
-     website: "https://kemapis.eu.org/"
+     website: "https://hoanghao.me/"
   }
 }
 ```
@@ -88,7 +89,7 @@ const justkemforfun = {
 <div>
  <p align="center">
 <!--  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><br><br>  -->
-  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966"/><br><br>
+<!--   <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966"/><br><br> -->
   <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
  </p>
 </div>
@@ -97,10 +98,10 @@ const justkemforfun = {
 <!-- <h2 align="center">Contact Me!</h2> -->
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/kemsadboiz" target="blank">
+  <a href="https://www.facebook.com/kemsadboiz" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/kemsadboizz" target="blank">
+  <a href="https://www.instagram.com/kemsadboizz" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Instagram"/>
   </a>
   <a href="mailto:kemdev.contact@gmail.com" target="top">
