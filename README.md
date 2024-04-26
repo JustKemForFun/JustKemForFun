@@ -12,7 +12,8 @@
 
 /!-[ About and Infomation ]-!/
 
-// let kem = {}
+// let kem = {};
+// var kem = {};
 const justkemforfun = {
   code: [
      "JavaScript", 
@@ -45,6 +46,28 @@ const justkemforfun = {
   support_Tool: [
      "NPM"
   ],
+  skills: [
+     { name: "JavaScript", level: "Normal" },
+     { name: "Node.JS", level: "Normal" }
+  ],
+  education: [
+   {
+     school: "Trường THCS Thái Văn Lung",
+     degree: "Học sinh ngoan",
+     startYear: 2020,
+     endYear: 2022
+   },
+   {
+     school: "Trường THCS TG",
+     degree: "Học sinh",
+     startYear: 2022,
+     endYear: 2024
+   }
+  ],
+  socialMedia: {
+     facebook: "https://www.facebook.com/kemsadboiz",
+     instagram: "https://www.instagram.com/kemsadboizz"
+  },
   info: {
      name: "Hoàng Hào",
      username: "JustKemForFun",
@@ -52,6 +75,8 @@ const justkemforfun = {
      location: "localhost, vietnamese",
      status: "Waiting for Võ Ng Đan Khanh ><",
      occupation: "Newbie Study Code",
+     careerObjective: "Trở thành một lập trình viên full-stack giỏi, không ngừng học hỏi và phát triển bản thân trong lĩnh vực công nghệ.",
+     hobbies: "Đọc sách", "Nghe nhạc", "Bên vndk ><",
      operating_system: "Windows, MaciOS, Linux, Azure, Arch, VPS",
      website: "https://hoanghao.me/"
   },
