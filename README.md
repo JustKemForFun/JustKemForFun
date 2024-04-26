@@ -19,9 +19,9 @@ class Attributes extends HoangHao {
         super();
         this.contact = () => ({
             ayo: 'https://ayo.so/kemsadboiz',
+            email: 'kemdev.contact@gmail.com',
             facebook: 'https://www.facebook.com/kemsadboiz',
-            instagram: 'https://www.instagram.com/kemsadboizz',
-            email: 'kemdev.contact@gmail.com'
+            instagram: 'https://www.instagram.com/kemsadboizz'
         });
 
         this.coding = () => ({
@@ -30,13 +30,13 @@ class Attributes extends HoangHao {
                 intermediate: ['Python'],
                 learning: ['TypeScript', 'PHP']
             },
-            data: {
+            dataSupports: {
                 framework: ['Node.JS', 'Express.JS'],
                 databases: ['MongoDB', 'SQLite'],
-                deploy: ['Heroku', 'Glitch', 'GitLab'],
+                deploy: ['Heroku', 'Vercel', 'Glitch', 'GitLab'],
                 package: ['NPM', 'Yarn'],
             },
-            ide: ['VSCode', 'Sublime Text', 'Replit']
+            IDEs: ['VSCode', 'Sublime Text', 'Webstorm', 'Replit']
         });
 
         this.life = () => ({
@@ -45,7 +45,7 @@ class Attributes extends HoangHao {
             age: 15,
             address: ['127.0.0.1'],
             location: ['localhost, vietnamese'],
-            status: ['Waiting for Võ Ng Đan Khanh ><'],
+            status: ['Waiting for Võ Ngọc Đan Khanh (doka) ><'],
             occupation: ['Newbie Study Code'],
             careerObjective: ['Trở thành một lập trình viên full-stack (FE)'],
             hobbies: ['Đọc sách', 'Nghe nhạc', 'vndk ><'],
@@ -55,11 +55,11 @@ class Attributes extends HoangHao {
         });
 
         this.quotes = () => ({
-            iuvndk: ['Miss Her..']
+            iuvndk: ['iu lóm ><']
         });
 
         this.contributes = () => ({
-            thanks: ['Lê Tuấn Vỹ', 'Nguyễn Chí Thành Lộc', 'Phạm Văn Minh Hải', 'Đặng Hoài Thanh', 'Cao Chung Đạt']
+            thanks: ['Lê Tuấn Vỹ', 'Nguyễn Chí Thành Lộc', 'Đặng Hoài Thanh', 'Cao Chung Đạt']
         });
     }
 }
