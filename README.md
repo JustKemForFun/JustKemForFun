@@ -12,9 +12,9 @@
 
 /!-[ About and Infomation ]-!/
 
-class HoangHao {};
+class Kem {};
 
-class Attributes extends HoangHao {
+class Attributes extends Kem {
     constructor() {
         super();
         this.contact = () => ({
@@ -51,11 +51,11 @@ class Attributes extends HoangHao {
             hobbies: ['Đọc sách', 'Nghe nhạc', 'vndk ><'],
             operatingSystem: ['Windows, MaciOS, Linux, Azure, Arch, VPS'],
             spokenLanguages: ['Vietnamese', 'English'],
-            webSite: 'https://hoanghao.me/'
+            webSite: 'https://Kem.me/'
         });
 
         this.quotes = () => ({
-            iuvndk: ['iu lóm ><']
+            vndk: ['iu lóm ><']
         });
 
         this.contributes = () => ({
