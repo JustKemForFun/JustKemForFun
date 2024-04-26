@@ -18,6 +18,7 @@ class Attributes extends HoangHao {
     constructor() {
         super();
         this.contact = () => ({
+            ayo: 'https://ayo.so/kemsadboiz',
             facebook: 'https://www.facebook.com/kemsadboiz',
             instagram: 'https://www.instagram.com/kemsadboizz',
             email: 'kemdev.contact@gmail.com'
@@ -25,7 +26,7 @@ class Attributes extends HoangHao {
 
         this.coding = () => ({
             programmingLanguages: {
-                expert: ['JavaScript', 'Node.JS', 'HTML/CSS'],
+                expert: ['JavaScript', 'HTML/CSS'],
                 intermediate: ['Python'],
                 learning: ['TypeScript', 'PHP']
             },
@@ -45,11 +46,11 @@ class Attributes extends HoangHao {
             location: ['localhost, vietnamese'],
             status: ['Waiting for Võ Ng Đan Khanh ><'],
             occupation: ['Newbie Study Code'],
-            careerObjective: ['Trở thành một lập trình viên full-stack giỏi, không ngừng học hỏi và phát triển bản thân trong lĩnh vực công nghệ.'],
+            careerObjective: ['Trở thành một lập trình viên full-stack (FE)'],
             hobbies: ['Đọc sách', 'Nghe nhạc', 'Bên vndk ><'],
             operatingSystem: ['Windows, MaciOS, Linux, Azure, Arch, VPS'],
             spokenLanguages: ['Vietnamese', 'English'],
-            webSite: ['https://hoanghao.me/']
+            webSite: 'https://hoanghao.me/'
         });
 
         this.quotes = () => ({
