@@ -12,76 +12,50 @@
 
 /!-[ About and Infomation ]-!/
 
-// let kem = {};
-// var kem = {};
-const justkemforfun = {
-  code: [
-     "JavaScript", 
-     "Node.JS", 
-     "HTML/CSS"
-   ],
-  data: [
-     "MongoDB",
-     "Redis"
-  ],
-  framework: [ 
-     "Express"
-  ],
-  language_Learning_Future: [
-     "TypeScript",
-     "PHP",
-     "Python",
-     "React.JS"
-  ],
-  environment: [
-     "Visual Studio Code",
-     "Sublime Text",
-     "Replit"
-  ],
-  deploy_Tools: [
-     "Heroku",
-     "Glitch",
-     "GitLab"
-  ],
-  support_Tool: [
-     "NPM"
-  ],
-  skills: [
-     { name: "JavaScript", level: "Normal" },
-     { name: "Node.JS", level: "Normal" }
-  ],
-  education: [
-   {
-     school: "Trường THCS Thái Văn Lung",
-     degree: "Học sinh ngoan",
-     startYear: 2020,
-     endYear: 2022
-   },
-   {
-     school: "Trường THCS TG",
-     degree: "Học sinh",
-     startYear: 2022,
-     endYear: 2024
-   }
-  ],
-  socialMedia: {
-     facebook: "https://www.facebook.com/kemsadboiz",
-     instagram: "https://www.instagram.com/kemsadboizz"
-  },
-  info: {
-     name: "Hoàng Hào",
-     username: "JustKemForFun",
-     age: 15,
-     location: "localhost, vietnamese",
-     status: "Waiting for Võ Ng Đan Khanh ><",
-     occupation: "Newbie Study Code",
-     careerObjective: "Trở thành một lập trình viên full-stack giỏi, không ngừng học hỏi và phát triển bản thân trong lĩnh vực công nghệ.",
-     hobbies: "Đọc sách", "Nghe nhạc", "Bên vndk ><",
-     operating_system: "Windows, MaciOS, Linux, Azure, Arch, VPS",
-     website: "https://hoanghao.me/"
-  },
-  friendly: {},
-  return justkemforfun;
+class HoangHao {};
+
+class Attributes extends HoangHao {
+    constructor() {
+        super();
+        this.contact = () => ({
+            facebook: 'https://www.facebook.com/kemsadboiz',
+            instagram: 'https://www.instagram.com/kemsadboizz',
+            email: 'kemdev.contact@gmail.com'
+        });
+
+        this.coding = () => ({
+            programmingLanguages: {
+                expert: ['JavaScript', 'Node.JS', 'HTML/CSS'],
+                intermediate: ['Python'],
+                learning: ['TypeScript', 'PHP']
+            },
+            data: {
+                framework: ['Node.JS', 'Express.JS'],
+                databases: ['MongoDB', 'SQLite'],
+                deploy: ['Heroku', 'Glitch', 'GitLab'],
+                package: ['NPM', 'Yarn'],
+            },
+            ide: ['VSCode', 'Sublime Text', 'Replit']
+        });
+
+        this.life = () => ({
+            name: ['Hoàng Hào'],
+            username: ['JustKemForFun'],
+            age: 15,
+            location: ['localhost, vietnamese'],
+            status: ['Waiting for Võ Ng Đan Khanh ><'],
+            occupation: ['Newbie Study Code'],
+            careerObjective: ['Trở thành một lập trình viên full-stack giỏi, không ngừng học hỏi và phát triển bản thân trong lĩnh vực công nghệ.'],
+            hobbies: ['Đọc sách', 'Nghe nhạc', 'Bên vndk ><'],
+            operatingSystem: ['Windows, MaciOS, Linux, Azure, Arch, VPS'],
+            spokenLanguages: ['Vietnamese', 'English'],
+            webSite: ['https://hoanghao.me/']
+        });
+
+        this.quotes = () => ({
+            quotesiuvndk: ['Miss Her..']
+        });
+    }
 }
 ```
 
