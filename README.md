@@ -43,18 +43,23 @@ class Attributes extends HoangHao {
             name: ['Hoàng Hào'],
             username: ['JustKemForFun'],
             age: 15,
+            address: ['127.0.0.1'],
             location: ['localhost, vietnamese'],
             status: ['Waiting for Võ Ng Đan Khanh ><'],
             occupation: ['Newbie Study Code'],
             careerObjective: ['Trở thành một lập trình viên full-stack (FE)'],
-            hobbies: ['Đọc sách', 'Nghe nhạc', 'Bên vndk ><'],
+            hobbies: ['Đọc sách', 'Nghe nhạc', 'vndk ><'],
             operatingSystem: ['Windows, MaciOS, Linux, Azure, Arch, VPS'],
             spokenLanguages: ['Vietnamese', 'English'],
             webSite: 'https://hoanghao.me/'
         });
 
         this.quotes = () => ({
-            quotesiuvndk: ['Miss Her..']
+            iuvndk: ['Miss Her..']
+        });
+
+        this.contributes = () => ({
+            thanks: ['Lê Tuấn Vỹ', 'Nguyễn Chí Thành Lộc', 'Phạm Văn Minh Hải', 'Đặng Hoài Thanh', 'Cao Chung Đạt']
         });
     }
 }
