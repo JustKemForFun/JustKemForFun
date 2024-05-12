@@ -45,17 +45,12 @@ class Attributes extends Kem {
             age: 15,
             address: ['127.0.0.1'],
             location: ['localhost, vietnamese'],
-            status: ['Waiting for Võ Ngọc Đan Khanh (doka) ><'],
             occupation: ['Newbie Study Code'],
             careerObjective: ['Trở thành một lập trình viên full-stack (FE)'],
             hobbies: ['Đọc sách', 'Nghe nhạc', 'vndk ><'],
             operatingSystem: ['Windows, MaciOS, Linux, Azure, Arch, VPS'],
             spokenLanguages: ['Vietnamese', 'English'],
-            webSite: 'https://Kem.me/'
-        });
-
-        this.quotes = () => ({
-            vndk: ['iu lóm ><']
+            webSite: 'https://hoanghao.me/'
         });
 
         this.contributes = () => ({
