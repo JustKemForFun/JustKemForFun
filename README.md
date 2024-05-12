@@ -47,7 +47,7 @@ class Attributes extends Kem {
             location: ['localhost, vietnamese'],
             occupation: ['Newbie Study Code'],
             careerObjective: ['Trở thành một lập trình viên full-stack (FE)'],
-            hobbies: ['Đọc sách', 'Nghe nhạc', 'vndk ><'],
+            hobbies: ['Đọc sách', 'Nghe nhạc'],
             operatingSystem: ['Windows, MaciOS, Linux, Azure, Arch, VPS'],
             spokenLanguages: ['Vietnamese', 'English'],
             webSite: 'https://hoanghao.me/'
