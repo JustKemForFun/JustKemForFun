@@ -26,7 +26,7 @@ class Attributes extends Kem {
 
         this.coding = () => ({
             programmingLanguages: {
-                expert: ['JavaScript', 'HTML/CSS'],
+                expert: ['JavaScript', 'HTML/CSS', 'Swift'],
                 intermediate: ['Python'],
                 learning: ['TypeScript', 'PHP']
             },
@@ -36,7 +36,7 @@ class Attributes extends Kem {
                 deploy: ['Heroku', 'Vercel', 'Glitch', 'GitLab'],
                 package: ['NPM', 'Yarn'],
             },
-            IDEs: ['VSCode', 'Sublime Text', 'Webstorm', 'Replit']
+            IDEs: ['VSCode', 'Sublime Text', 'Webstorm', 'Replit', 'XCode']
         });
 
         this.life = () => ({
@@ -46,7 +46,7 @@ class Attributes extends Kem {
             address: ['127.0.0.1'],
             location: ['localhost, vietnamese'],
             occupation: ['Newbie Study Code'],
-            careerObjective: ['Trở thành một lập trình viên full-stack (FE)'],
+            careerObjective: ['Trở thành một lập trình viên full-stack (FE) - Focused on Swift & JavaScript. Makes macOS apps, CLI tools, npm packages.'],
             hobbies: ['Đọc sách', 'Nghe nhạc'],
             operatingSystem: ['Windows, MaciOS, Linux, Azure, Arch, VPS'],
             spokenLanguages: ['Vietnamese', 'English'],
