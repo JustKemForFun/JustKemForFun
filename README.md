@@ -59,6 +59,18 @@ class Attributes extends Kem {
     }
 }
 ```
+<!-- <div align="center"> -->
+    
+## 🏠Introduction
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F70A&random=false&width=500&lines=Founder+%26+Developer+Of+Kem+Network+Coding...;With+2+Years+Of+Programming+Experience;" alt="Typing SVG"/>
+  </a>
+</p>
+
+<h3 align="center">Hey there, I'm <a href="https://github.com/JustKemForFun">Hoang Hao</a></h3>
+<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 Technologies Stack and Tools
 <div align="center">
@@ -88,6 +100,8 @@ class Attributes extends Kem {
    </p>
 <br>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
  <p align="center">
