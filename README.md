@@ -64,12 +64,25 @@ class Attributes extends Kem {
 ## 🏠Introduction
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F70A&random=false&width=500&lines=Founder+%26+Developer+Of+Kem+Network+Coding...;With+2+Years+Of+Programming+Experience;" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F70A&random=false&width=500&lines=Founder+%26+Developer+Of+Kem+Network+Coding...;With+1+Years+Of+Programming+Experience;" alt="Typing SVG"/>
   </a>
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/JustKemForFun">Hoang Hao</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🐱‍💻 SETUP
+<ul>
+  <li><strong>CPU:</strong> Intel Core i9 - 13900K - 5,8GHz</li> <!-- Intel Core i9 - 13900K - 5,8GH - 6x12. -->
+  <li><strong>Mem:</strong> 64GB (2x 32GB DDR4).</li>
+<!--   <li><strong>GPU:</strong> NVIDIA GeForce RTX 3060 12GB.</li> -->
+  <li><strong>Disk:</strong> NVMe SSD 512GB.</li>
+  <li><strong>System:</strong> Windows 11 Pro.</li>
+<!--   <li><strong>Mouse:</strong> Logitech G304 Lightspeed (White).</li>
+  <li><strong>Keyboard:</strong> Fuhlen T87s Wireless White Red Switch.</li> -->
+</ul>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 Technologies Stack and Tools
