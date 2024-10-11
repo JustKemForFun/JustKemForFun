@@ -26,9 +26,9 @@ class Attributes extends Kem {
 
         this.coding = () => ({
             programmingLanguages: {
-                expert: ['JavaScript', 'HTML/CSS', 'Swift'],
+                expert: ['JavaScript', 'TypeScript', 'HTML/CSS'],
                 intermediate: ['Python'],
-                learning: ['TypeScript', 'PHP']
+                learning: ['Swift', 'PHP']
             },
             dataSupports: {
                 framework: ['Node.JS', 'Express.JS'],
