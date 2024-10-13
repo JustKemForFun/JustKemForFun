@@ -54,7 +54,7 @@ class Attributes extends Kem {
         });
 
         this.contributes = () => ({
-            thanks: ['Lê Tuấn Vỹ', 'Nguyễn Chí Thành Lộc', 'Đặng Hoài Thanh', 'Cao Chung Đạt', 'Nguyễn Duy Khánh']
+            thanks: ['Lê Tuấn Vỹ', 'Nguyễn Chí Thành Lộc', 'Đặng Hoài Thanh', 'Nguyễn Duy Khánh', 'Tô Châu Trí Dũng']
         });
     }
 }
