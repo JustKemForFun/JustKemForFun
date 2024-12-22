@@ -26,8 +26,8 @@ class Attributes extends Kem {
 
         this.coding = () => ({
             programmingLanguages: {
-                expert: ['JavaScript', 'TypeScript', 'HTML/CSS'],
-                intermediate: ['Python'],
+                expert: ['JavaScript', 'TypeScript'],
+                intermediate: ['Python', 'HTML/CSS'],
                 learning: ['Swift', 'PHP']
             },
             dataSupports: {
@@ -41,12 +41,13 @@ class Attributes extends Kem {
 
         this.life = () => ({
             name: ['Hoàng Hào'],
+            pronouns: ['He or Him'],
             username: ['JustKemForFun', 'kemsadboiz'],
             age: 15,
             address: ['127.0.0.1'],
             location: ['localhost, vietnamese'],
             occupation: ['Newbie Study Code'],
-            careerObjective: ['Trở thành một lập trình viên full-stack (FE) - Focused on Swift & JavaScript. Makes macOS apps, CLI tools, npm packages.'],
+            careerObjective: ['Trở thành một lập trình viên full-stack (FE) - Focused on Swift & JavaScript & TypeScript. Makes macOS apps, CLI tools, npm packages.'],
             hobbies: ['Đọc sách', 'Nghe nhạc'],
             operatingSystem: ['Windows, MaciOS, Linux, Azure, Arch, VPS'],
             spokenLanguages: ['Vietnamese', 'English'],
@@ -54,7 +55,7 @@ class Attributes extends Kem {
         });
 
         this.contributes = () => ({
-            thanks: ['Lê Tuấn Vỹ', 'Nguyễn Chí Thành Lộc', 'Đặng Hoài Thanh', 'Nguyễn Duy Khánh', 'Tô Châu Trí Dũng']
+            thanks: ['Lê Tuấn Vỹ', 'Nguyễn Chí Thành Lộc', 'Đặng Hoài Thanh', 'Nguyễn Duy Khánh', 'Tô Châu Trí Dũng', 'Nguyễn Thành Khang', 'Phạm Trung KiênKiên']
         });
     }
 }
