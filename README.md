@@ -31,10 +31,10 @@ class Attributes extends Kem {
                 learning: ['Swift', 'PHP']
             },
             dataSupports: {
-                framework: ['Node.JS', 'Express.JS'],
+                frameworks: ['Node.JS', 'Express.JS'],
                 databases: ['MongoDB', 'SQLite'],
-                deploy: ['Heroku', 'Vercel', 'Glitch', 'GitLab'],
-                package: ['NPM', 'Yarn'],
+                deploys: ['Heroku', 'Vercel', 'Glitch', 'GitLab'],
+                packages: ['NPM', 'Yarn'],
             },
             IDEs: ['VSCode', 'Sublime Text', 'Webstorm', 'Replit', 'XCode']
         });
