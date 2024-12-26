@@ -1,6 +1,6 @@
 <h2> Hi, I am Hoàng Hào !!!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://graph.facebook.com/100009820695732/picture?width=720&height=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662" width="90">
-<p><em>Visit my portfolio here <a href="https://kemapis.eu.org/">KemProduct!</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Studient at <a href="https://hoanghao.me/">APIs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Visit my portfolio here <a href="https://kemapis.eu.org/">Kem!</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Studient at <a href="https://hoanghao.me/">APIs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [![GitHub JustKemForFun](https://img.shields.io/github/followers/justkemforfun?label=follow&style=social)](https://github.com/justkemforfun)
@@ -18,10 +18,10 @@ class Attributes extends Kem {
     constructor() {
         super();
         this.contact = () => ({
-            ayo: 'https://ayo.so/kemsadboiz',
+            ayo: 'https://ayo.so/kemsadboiz/',
             email: 'kemdev.contact@gmail.com',
-            facebook: 'https://www.facebook.com/kemsadboiz',
-            instagram: 'https://www.instagram.com/kemsadboizz'
+            facebook: 'https://www.facebook.com/kemsadboiz/',
+            instagram: 'https://www.instagram.com/kemsadboizz/'
         });
 
         this.coding = () => ({
@@ -47,15 +47,16 @@ class Attributes extends Kem {
             address: ['127.0.0.1'],
             location: ['localhost, vietnamese'],
             occupation: ['Newbie Study Code'],
-            careerObjective: ['Trở thành một lập trình viên full-stack (FE) - Focused on Swift & JavaScript & TypeScript. Makes macOS apps, CLI tools, npm packages.'],
-            hobbies: ['Đọc sách', 'Nghe nhạc'],
+            careerObjective: ['A programming freelancer Full-Stack (FS) - Focused on Swift & JavaScript & TypeScript. Makes macOS apps, CLI tools, npm packages.'],
+            hobbies: ['Reading book', 'Listen Music'],
             operatingSystem: ['Windows, MaciOS, Linux, Azure, Arch, VPS'],
             spokenLanguages: ['Vietnamese', 'English'],
             webSite: 'https://hoanghao.me/'
         });
 
         this.contributes = () => ({
-            thanks: ['Lê Tuấn Vỹ', 'Nguyễn Chí Thành Lộc', 'Đặng Hoài Thanh', 'Nguyễn Duy Khánh', 'Tô Châu Trí Dũng', 'Nguyễn Thành Khang', 'Phạm Trung Kiên']
+            thanks: ['Nguyễn Chí Thành Lộc', 'Đặng Hoài Thanh', 'Nguyễn Duy Khánh', 'Tô Châu Trí Dũng', 'Nguyễn Thành Khang'],
+            myfriends: ['Lê Tuấn Vỹ', 'Phạm Trung Kiên']
         });
     }
 }
@@ -65,7 +66,7 @@ class Attributes extends Kem {
 ## 🏠Introduction
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F70A&random=false&width=500&lines=Founder+%26+Developer+Of+Kem+Network+Coding...;With+1+Years+Of+Programming+Experience;" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F70A&random=false&width=500&lines=Founder+%26+Developer+Of+Kem+Network+Coding...;With+2+Years+Of+Programming+Experience;" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -80,8 +81,8 @@ class Attributes extends Kem {
 <!--   <li><strong>GPU:</strong> NVIDIA GeForce RTX 3060 12GB.</li> -->
   <li><strong>Disk:</strong> NVMe SSD 512GB.</li>
   <li><strong>System:</strong> Windows 11 Pro.</li>
-<!--   <li><strong>Mouse:</strong> Logitech G304 Lightspeed (White).</li>
-  <li><strong>Keyboard:</strong> Fuhlen T87s Wireless White Red Switch.</li> -->
+<!--   <li><strong>Mouse:</strong> Logitech G304 Lightspeed (White).</li> -->
+<!--   <li><strong>Keyboard:</strong> Fuhlen T87s Wireless White Red Switch.</li> -->
 </ul>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -129,10 +130,10 @@ class Attributes extends Kem {
 <!-- <h2 align="center">Contact Me!</h2> -->
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/kemsadboiz" target="blank">
+  <a href="https://www.facebook.com/kemsadboiz/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/kemsadboizz" target="blank">
+  <a href="https://www.instagram.com/kemsadboizz/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Instagram"/>
   </a>
   <a href="mailto:kemdev.contact@gmail.com" target="top">
