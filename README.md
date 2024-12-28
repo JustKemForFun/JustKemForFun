@@ -140,3 +140,15 @@ class Attributes extends Kem {
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Mail"/>
   </a>
 </div>
+
+<hr>
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/JustKemForFun/count.svg"/></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=JustKemForFun&theme=tokyonight-duo&hide_border=true&card_width=600" /></p>
+
+<!-- <div align="center">  
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&show_offline=false&bar_color_cover=true"/>
+  </a>
+</div> -->
+
