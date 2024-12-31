@@ -51,7 +51,8 @@ class Attributes extends Kem {
             hobbies: ['Reading book', 'Listen Music'],
             operatingSystem: ['Windows, MaciOS, Linux, Azure, Arch, VPS'],
             spokenLanguages: ['Vietnamese', 'English'],
-            webSite: 'https://hoanghao.me/'
+            webSite: 'https://hoanghao.me/',
+            quote: 'One for all, all for one'
         });
 
         this.contributes = () => ({
