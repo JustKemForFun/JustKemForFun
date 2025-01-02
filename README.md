@@ -65,8 +65,9 @@ class Attributes extends Kem {
 }
 ```
 <!-- <div align="center"> -->
+<!-- &nbsp; là khoảng trắng -->
     
-## 🏠Introduction
+## 🏠 Introduction
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F70A&random=false&width=500&lines=Founder+%26+Developer+Of+Kem+Network+Coding...;With+2+Years+Of+Programming+Experience;" alt="Typing SVG"/>
@@ -149,4 +150,3 @@ class Attributes extends Kem {
 <!-- <hr> -->
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/JustKemForFun/count.svg"/></p>
-<p align="center"><img src="https://streak-stats.demolab.com?user=JustKemForFun&theme=tokyonight-duo&hide_border=true&card_width=600"/></p>
