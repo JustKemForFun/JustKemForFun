@@ -80,11 +80,22 @@ class Attributes extends Kem {
 
 ### 🐱‍💻 SETUP
 <ul>
-  <li><strong>CPU:</strong> Intel Core i9 - 13900K - 5,8GHz</li> <!-- Intel Core i9 - 13900K - 5,8GH - 6x12. -->
+  <li><strong>CPU:</strong> Intel Core i9 - 13900K - 5,8GHz</li> <!-- Intel Core i9 - 13900K - 5, - 6x12. -->
   <li><strong>Mem:</strong> 64GB (2x 32GB DDR5).</li>
 <!--   <li><strong>GPU:</strong> NVIDIA GeForce RTX 3060 12GB.</li> -->
   <li><strong>Disk:</strong> NVMe SSD 2TB.</li>
   <li><strong>System:</strong> Windows 11 Pro.</li>
+<!--   <li><strong>Mouse:</strong> Logitech G304 Lightspeed (White).</li> -->
+<!--   <li><strong>Keyboard:</strong> Fuhlen T87s Wireless White Red Switch.</li> -->
+</ul>
+
+### 🐱‍💻 SERVER MINI - VPS
+<ul>
+  <li><strong>CPU:</strong> Intel Core i5-12400F - 4,40GHz</li> <!-- Intel Core i9 - 13900K - 5,8GHz - 6x12. -->
+  <li><strong>Mem:</strong> 32GB (2x 16GB DDR5).</li>
+<!--   <li><strong>GPU:</strong> NVIDIA GeForce RTX 3060 12GB.</li> -->
+  <li><strong>Disk:</strong> NVMe SSD 1TB.</li>
+  <li><strong>System:</strong> Linux and Windows 11 Pro.</li>
 <!--   <li><strong>Mouse:</strong> Logitech G304 Lightspeed (White).</li> -->
 <!--   <li><strong>Keyboard:</strong> Fuhlen T87s Wireless White Red Switch.</li> -->
 </ul>
