@@ -30,30 +30,7 @@ class Attributes extends Kem {
             programmingLanguages: {
                 expert: ['JavaScript', 'TypeScript'],
                 intermediate: ['Python', 'HTML/CSS'],
-                learning: ['Swift', 'PHP']
-            },
-            dataSupports: {
-                frameworks: ['Node.JS', 'Express.JS'],
-                databases: ['MongoDB', 'SQLite'],
-                deploys: ['Heroku', 'Vercel', 'Glitch', 'GitLab'],
-                packages: ['NPM', 'Yarn'],
-            },
-            IDEs: ['VSCode', 'Sublime Text', 'Webstorm', 'Replit', 'XCode']
-        });
-
-        this.life = () => ({
-            name: ['Hoàng Hào'],
-            pronouns: ['He or Him'],
-            username: ['JustKemForFun', 'kemsadboiz'],
-            age: 15,
-            address: ['127.0.0.1'],
-            location: ['localhost, vietnamese'],
-            occupation: ['Newbie Study Code'],
-            careerObjective: ['A programming freelancer Full-Stack (FS) - Focused on Swift & JavaScript & TypeScript. Makes macOS apps, CLI tools, npm packages.'],
-            hobbies: ['Reading book', 'Listen Music'],
-            operatingSystem: ['Windows, MaciOS, Linux, Azure, Arch, VPS'],
-            spokenLanguages: ['Vietnamese', 'English'],
-            webSite: 'https://hoanghao.me/',
+     lol/',
             quote: 'One for all, all for one.'
         });
 
