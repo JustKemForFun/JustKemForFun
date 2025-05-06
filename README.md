@@ -68,11 +68,11 @@ class Attributes extends Kem {
 <!-- &nbsp; là khoảng trắng -->
     
 ## 🏠 Introduction
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F70A&random=false&width=500&lines=Founder+%26+Developer+Of+Kem+Network+Coding...;With+2+Years+Of+Programming+Experience;" alt="Typing SVG"/>
   </a>
-</p>
+</p> -->
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/JustKemForFun">Hoang Hao</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
