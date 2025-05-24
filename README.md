@@ -58,7 +58,7 @@ class Attributes extends Kem {
         });
 
         this.contributes = () => ({
-            thanks: ['Nguyễn Chí Thành Lộc', 'Đặng Hoài Thanh', 'Nguyễn Duy Khánh', 'Tô Châu Trí Dũng', 'Trần Văn Trường', 'Nguyễn Thành Khang', 'Lê Hoài Linh'],
+            thanks: ['Nguyễn Chí Thành Lộc', 'Đặng Hoài Thanh', 'Nguyễn Duy Khánh', 'Tô Châu Trí Dũng', 'Trần Văn Trường', 'Nguyễn Thành Khang', 'Lê Hoài Linh', 'Trần Văn Hoàng'],
             myfriends: ['Lê Tuấn Vỹ', 'Phạm Trung Kiên']
         });
     }
