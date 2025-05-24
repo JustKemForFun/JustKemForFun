@@ -45,7 +45,7 @@ class Attributes extends Kem {
             name: ['Hoàng Hào'],
             pronouns: ['He or Him'],
             username: ['JustKemForFun', 'kemsadboiz'],
-            birthday: August 30
+            birthday: ['August 30'],
             age: 15,
             address: ['127.0.0.1'],
             location: ['localhost, vietnamese'],
