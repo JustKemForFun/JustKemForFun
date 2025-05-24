@@ -23,7 +23,7 @@ class Attributes extends Kem {
             ayo: 'https://ayo.so/kemsadboiz/',
             email: 'kemdev.contact@gmail.com',
             facebook: 'https://www.facebook.com/kemsadboiz/',
-            instagram: 'https://www.instagram.com/kemsadboizz/'
+            instagram: 'https://www.instagram.com/hhaoo._/'
         });
 
         this.coding = () => ({
