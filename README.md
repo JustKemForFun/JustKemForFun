@@ -155,11 +155,11 @@ class Attributes extends Kem {
   <a href="https://www.facebook.com/kemsadboiz/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/kemsadboizz/" target="blank">
+  <a href="https://www.instagram.com/hhaoo._/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Instagram"/>
   </a>
   <a href="mailto:kemdev.contact@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Mail"/>
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="E-Mail"/>
   </a>
 </div>
 
