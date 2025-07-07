@@ -48,11 +48,11 @@ class Attributes extends Kem {
             birthday: ['August 30'],
             age: 15,
             address: ['127.0.0.1'],
-            location: ['localhost, vietnamese'],
+            location: ['localhost', 'vietnam'],
             occupation: ['Newbie Study Code'],
             careerObjective: ['A programming freelancer Full-Stack (FS) - Focused on JavaScript & TypeScript. Makes macOS & Android apps, CLI tools, npm packages.'],
             hobbies: ['Reading book', 'Listen Music'],
-            operatingSystem: ['Windows, MaciOS, Linux, Azure, Arch, VPS'],
+            operatingSystems: ['Windows', 'MacOS', 'Linux', 'Azure', 'Arch', 'iOS', 'Android'],
             spokenLanguages: ['Vietnamese', 'English'],
             webSite: 'https://hoanghao.lol/',
             quote: 'One for all, all for one.'
