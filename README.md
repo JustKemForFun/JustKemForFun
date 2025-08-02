@@ -39,7 +39,7 @@ class Attributes extends Kem {
                 deploys: ['Heroku', 'Vercel', 'Glitch', 'GitLab'],
                 packages: ['NPM', 'Yarn'],
             },
-            IDEs: ['VSCode', 'Sublime Text', 'Webstorm', 'Replit', 'XCode']
+            IDEs: ['VSCode', 'Cursor', 'Sublime Text', 'Webstorm', 'Replit', 'XCode']
         });
 
         this.life = () => ({
