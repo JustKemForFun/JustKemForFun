@@ -102,10 +102,10 @@ class Attributes extends Kem {
 <!--   <li><strong>Keyboard:</strong> Fuhlen T87s Wireless White Red Switch.</li> -->
 </ul>
 
-### 🐱‍💻 SMARTPHONE - ANDROID & IPHONE
+### 🐱‍💻 SMARTPHONE - ANDROID & iPHONE
 <ul>
   <li><strong>Android:</strong> Oppo A32k.</li>
-  <li><strong>IPhone:</strong> iPhone 15 Pro Max.</li>
+  <li><strong>iPhone:</strong> iPhone 15 Pro Max.</li>
 </ul>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
