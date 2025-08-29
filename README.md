@@ -47,7 +47,7 @@ class Attributes extends Kem {
             pronouns: ['He or Him'],
             username: ['JustKemForFun', 'kemsadboiz'],
             birthday: ['August 30'],
-            age: 15,
+            age: 16,
             address: ['127.0.0.1'],
             location: ['localhost', 'vietnam'],
             occupation: ['Newbie Study Code'],
