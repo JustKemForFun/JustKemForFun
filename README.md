@@ -48,7 +48,7 @@ class Attributes extends Kem {
             username: ['JustKemForFun', 'kemsadboiz'],
             birthday: ['August 30'],
             age: 16,
-            address: ['127.0.0.1'],
+            address: ['HoChiMinh', 'SaiGon', '127.0.0.1'],
             location: ['localhost', 'vietnam'],
             occupation: ['Newbie Study Code'],
             careerObjective: ['A programming freelancer Full-Stack (FS) - Focused on JavaScript & TypeScript. Makes macOS & Android apps, CLI tools, npm packages.'],
