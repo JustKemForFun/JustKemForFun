@@ -134,7 +134,8 @@ class Attributes extends Kem {
   <img scr="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img scr="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white"/>
   <img scr="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
+  <img scr="https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white%22"/>
+<!--   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
    </p>
 <br>
 </div>
