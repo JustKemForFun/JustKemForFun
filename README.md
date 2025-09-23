@@ -159,6 +159,7 @@ class Attributes extends Kem {
   </a>
   <a href="https://www.instagram.com/hhaoo._/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Instagram"/>
+      <!-- https://img.icons8.com/?size=100&id=TEYr8ETaIfBJ&format=png&color=000000 -->
   </a>
   <a href="mailto:kemdev.contact@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="E-Mail"/>
