@@ -43,8 +43,8 @@ class Attributes extends Kem {
         });
 
         this.life = () => ({
-            name: ['Hoàng Hào'],
-            pronouns: ['He or Him'],
+            name: 'Hoàng Hào',
+            pronouns: 'He/Him',
             username: ['JustKemForFun', 'kemsadboiz'],
             birthday: ['August 30'],
             age: 16,
@@ -53,7 +53,7 @@ class Attributes extends Kem {
             occupation: ['Newbie Study Code'],
             careerObjective: ['A programming freelancer Full-Stack (FS) - Focused on JavaScript & TypeScript. Makes macOS & Android apps, CLI tools, npm packages.'],
             hobbies: ['Reading book', 'Listen Music'],
-            operatingSystems: ['Windows', 'MacOS', 'Linux', 'Azure', 'Arch', 'iOS', 'Android'],
+            operatingSystems: ['Windows', 'MacOS', 'Linux', 'Arch', 'iOS', 'Android'],
             spokenLanguages: ['Vietnamese', 'English'],
             webSite: 'https://hoanghao.lol/',
             quote: 'One for all, all for one.'
