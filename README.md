@@ -37,7 +37,7 @@ class Attributes extends Kem {
                 frameworks: ['Node.JS', 'Express.JS'],
                 databases: ['MongoDB', 'SQLite'],
                 deploys: ['Heroku', 'Vercel', 'Glitch', 'GitLab'],
-                packages: ['NPM', 'Yarn'],
+                packages: ['NPM', 'Bun', 'Yarn'],
             },
             IDEs: ['VSCode', 'Cursor', 'Sublime Text', 'Webstorm', 'Replit', 'XCode']
         });
