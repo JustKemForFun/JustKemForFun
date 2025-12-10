@@ -55,13 +55,13 @@ class Attributes extends Kem {
             hobbies: ['Reading book', 'Listen Music'],
             operatingSystems: ['Windows', 'MacOS', 'Linux', 'Arch', 'iOS', 'Android'],
             spokenLanguages: ['Vietnamese', 'English'],
-            webSite: 'https://hoanghao.lol/',
+            website: 'https://hoanghao.lol/',
             quote: 'One for all, all for one.'
         });
 
         this.contributes = () => ({
             thanks: ['Nguyễn Chí Thành Lộc', 'Đặng Hoài Thanh', 'Nguyễn Duy Khánh', 'Tô Châu Trí Dũng', 'Trần Văn Trường', 'Nguyễn Thành Khang', 'Lê Hoài Linh', 'Trần Văn Hoàng'],
-            myfriends: ['Lê Tuấn Vỹ']
+            myFriends: ['Lê Tuấn Vỹ']
         });
     }
 }
