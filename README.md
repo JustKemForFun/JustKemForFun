@@ -17,7 +17,7 @@ class Kem {};
 class Attributes extends Kem {
     constructor() {
         super();
-        this.hny = () => { const year = 2025; console.log("Happy New Year A New Beginning With", year); };
+        this.hny = () => { const year = 2026; console.log("Happy New Year A New Beginning With", year); };
 
         this.contact = () => ({
             ayo: 'https://ayo.so/kemsadboiz/',
