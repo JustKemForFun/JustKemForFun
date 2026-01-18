@@ -45,7 +45,7 @@ class Attributes extends Kem {
         this.life = () => ({
             name: 'Hoàng Hào',
             pronouns: 'He/Him',
-            username: ['JustKemForFun', 'kemsadboiz'],
+            username: ['JustKemForFun', 'kemsadboiz', 'hhaoit'],
             birthday: ['August 30'],
             age: 16,
             address: ['HoChiMinh', 'SaiGon', '127.0.0.1'],
